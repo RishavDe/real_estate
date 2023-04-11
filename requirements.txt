@@ -2,3 +2,4 @@ numpy
 pickle
 streamlit
 scikit
+sklearn
